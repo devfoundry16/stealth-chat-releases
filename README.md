@@ -14,7 +14,7 @@ Open the [latest release](https://github.com/devfoundry16/stealth-chat-releases/
 
 The builds aren't code-signed yet:
 
-- **macOS:** right-click the app and choose **Open** the first time.
+- **macOS:** right-click the app and choose **Open** the first time. On newer macOS versions, use **System Settings → Privacy & Security → Open Anyway** instead.
 - **Windows:** on the SmartScreen prompt, choose **More info**, then **Run anyway**.
 
 ## Updates
